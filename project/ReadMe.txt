@@ -1,5 +1,5 @@
 README:
-
+Topic:People’s Recommender System for Google+ using Ego Networks
 
 The data is available to download from the below mentioned link.
 snap.stanford.edu/data/egonets-Gplus.html
