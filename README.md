@@ -6,7 +6,4 @@
 4.	Top Hashtags extraction, for given search criteria, using Twitter Search API on 6 different timelines.
 5.	Application of different mapper, reducer and combiner patterns for derivation of certain statistics from Yelp dataset.
 
-Major Project:
-Topic: People’s Recommender System for Google+ using Ego Networks
-Developed a system to recommend people to be included in a user’s circles on Google+ using Ego Networks based on features like interests and places. 
-Analyzed the extracted tweets and relations between the computations. Software: Spark, GraphX API
+Major Project: People’s Recommender System for Google+ using Ego Networks - An application to recommend people to be included in a user’s circles on Google+ using Ego Networks based on features like interests and places. Software: Spark, GraphX API
