@@ -1,0 +1,12 @@
+Question 1 
+
+(HVD97JegyHENmARIUcDHgA,312 E Seneca StIthaca, NY 14853List(Music & DVDs, Books, Mags, Music and Video, Shopping),5.0)
+(_ZCvuuCXyVlR3kO3IIQ_kQ,10619 Bellagio RdBel AirLos Angeles, CA 90024List(Arts & Entertainment, Botanical Gardens),5.0)
+(zfJlkPH6VmuFfZBAkRr2kw,1114 Garden StSan Luis Obispo, CA 93401List(Bridal, Shopping, Jewelry),5.0)
+(GZ-38618ZxGax62ecq2WSg,1042 Pacific StSan Luis Obispo, CA 93401List(Dentists, Health and Medical),5.0)
+(_bB_OP2pktiJ2R58MzZR0w,200 W 106th StManhattan ValleyNew York, NY 10025List(Local Services, Dry Cleaning & Laundry),5.0)
+(Lr3WKzOW0x1IQwpRhYYIeg,452 W Vernon AveSouth Los AngelesLos Angeles, CA 90037List(Arts & Entertainment),5.0)
+(unJMcD3hk7aRPvAOeOGYPw,203 Buckingham DrLafayette, IN 47909List(Financial Services, Insurance),5.0)
+(PyOYYKkuWhTVuMtrrmhC_Q,2444 Times BlvdWest UniversityHouston, TX 77005List(Shopping, Books, Mags, Music and Video, Videos and Video Game Rental, Event Planning & Services, Arts & Crafts, Cards & Stationery, Flowers & Gifts),5.0)
+(ohjGEgPdOKu_82kPIgGPtQ,960 E Green StSte 204PasadenaPasadena, CA 91106List(Dentists, Health and Medical),5.0)
+(tVNM94fpLIfAUEKZIVFtkA,415 N Earl AveLafayette, IN 47904List(Keys & Locksmiths, Home Services),5.0)

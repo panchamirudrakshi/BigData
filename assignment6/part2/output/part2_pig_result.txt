@@ -1,0 +1,58 @@
+//Part 2 Scala Result:
+
+//k=5 
+	shall    12871
+	their    5966
+	which    5683 
+	there    2838 
+	would    2470 
+	these    2014 
+	shalt    1905
+	thee,    1896 
+	them,    1856 
+	said,    1788
+	
+//k=6
+	before  2236 
+	should  2190
+	people  1335
+	things  1047
+	cannot  868
+	father  822
+	little  645
+	called  640
+	though  583
+	better  568
+
+ //k=7
+	against  2093
+	saying,  1291 
+	because  1083 
+	brought  1043 
+	neither  876 
+	Israel,  767 
+	without  668
+	through  663 
+	behold,  622 
+	hundred  609
+	
+ //k=8
+	children  1656 
+	thousand  721
+	daughter  429
+	answered  391
+	offering  370
+	father's  356
+	thereof,  317
+	together  313
+	servants  309
+	gathered  258
+----------------------------------------------------------------------
+
+Time duration:
+---------------------------------------------------	
+length=5 duration: Double = 7.67
+length=6 duration: Double = 9.89
+length=7 duration: Double = 11.23
+length=8 duration: Double = 12.46
+

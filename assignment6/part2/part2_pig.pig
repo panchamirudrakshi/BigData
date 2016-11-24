@@ -1,0 +1,15 @@
+book1 = LOAD 'Shakespeare/'  AS(line:Chararray);
+book2 = LOAD 'bible/' AS(line:Chararray);
+book1_word = FOREACH book1 GENERATE FLATTEN(TOKENIZE(line, ' ')) AS word;
+book1_count = GROUP book1_word BY word;
+filter1 = FILTER book1_count BY org.apache.pig.piggybank.evaluation.string.LENGTH($0)==8;
+book1_group = FOREACH filter1 GENERATE group AS word, COUNT(book1_word) as Count;
+book2_word = FOREACH book2 GENERATE FLATTEN(TOKENIZE(line, ' ')) AS word;
+book2_count = GROUP book2_word BY word;
+filter2 = FILTER book2_count BY org.apache.pig.piggybank.evaluation.string.LENGTH($0)==8;
+book2_group = FOREACH filter2 GENERATE group AS word, COUNT(book2_word) as Count;
+resjn= JOIN book1_group by $0, book2_group by $0;
+result = foreach resjn generate book1_group::word as word,  book1_group::Count+book2_group::Count as count;
+books_order = ORDER result By count DESC;
+result = LIMIT books_order 10;
+STORE result into 'output2';

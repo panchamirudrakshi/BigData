@@ -1,0 +1,10 @@
+#travel	2
+#viajes	2
+#India	2
+#Indian	2
+#India?	2
+#SuryaRay	2
+#Tips	2
+#ArunKrGhosh#Akansha_Gautam	1
+#Nidhish__Kumar#GoldPrice	1
+#DearBallState	1
