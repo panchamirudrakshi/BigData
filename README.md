@@ -7,3 +7,5 @@
 5.	Application of different mapper, reducer and combiner patterns for derivation of certain statistics from Yelp dataset.
 
 Major Project: People’s Recommender System for Google+ using Ego Networks - An application to recommend people to be included in a user’s circles on Google+ using Ego Networks based on features like interests and places. Software: Spark, GraphX API
+
+Mini Project: Extracting and Analyzing Social Media Data with facebook and twitter. 
